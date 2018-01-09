@@ -1,5 +1,9 @@
 # NgrxDevtoolsDemo
 
+* [Slides](https://goo.gl/MS4qZB)
+* [Redux Devtools Extension (Chrome)](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
+* [@ngrx/store-devtools Instrumentation](https://github.com/ngrx/store-devtools)
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.5.5.
 
 ## Development server
